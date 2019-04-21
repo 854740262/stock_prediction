@@ -51,7 +51,7 @@ Build and test statistical model for stock prediction.
 | Weeks | Tasks |
 | ------ | ------ |
 | 4-5 | Research and learn statistics and finance models |
-| 6 | [Data import and cleaning |
+| 6 | Data import and cleaning |
 | 7-9 | Implement and validate different models |
 | 10 | Write report and prepare presentation |
 
