@@ -1,8 +1,7 @@
 # Stock Prediction
 
 Build and test statistical model for stock prediction.
-  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/854740262/stock_prediction/master?filepath=https%3A%2F%2Fgithub.com%2F854740262%2Fstock_prediction%2Fblob%2Fmaster%2FProject.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/854740262/stock_prediction/master?filepath=Project.ipynb)  
 ### Team member
 
   - Le Qin
