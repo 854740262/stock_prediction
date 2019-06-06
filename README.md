@@ -1,6 +1,7 @@
 # Stock Prediction
 
 Build and test statistical model for stock prediction.
+  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/854740262/stock_prediction/master?filepath=Project.ipynb)  
 ### Team member
 
